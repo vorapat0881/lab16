@@ -1,0 +1,1 @@
+findColSum(dPtr,sum2,N,M); 
